@@ -10,7 +10,7 @@ To get started with this project, follow these steps to set up a virtual environ
 
 Use git to clone the repository
 ```bash
-$ git clone https://github.com/yourusername/active-learning-emm.git
+$ git clone https://github.com/luca-mainardi/EMMAL.git
 $ cd active-learning-emm
 ```
 
