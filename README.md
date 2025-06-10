@@ -1,4 +1,4 @@
-# Exceptional Model Mining-Based Active Learning Method
+# Interpretable Sample Selection with Exceptional Model Mining
 
 This project explores an active learning technique integrated with Exceptional Model Mining (EMM) to address the sampling bias present in traditional active learning methods. By identifying subgroups within the unlabeled dataset that deviate significantly from the global model, EMM helps create a more diverse and representative training set, improving model performance under a constrained labeling budget. The project was evaluated on the Pima Indians Diabetes Dataset and demonstrated effectiveness in enhancing the classification accuracy of active learning tasks.
 
@@ -48,7 +48,7 @@ Open the notebook AL_EMM.ipynb and run through the cells to explore the implemen
 
 ## Contributors
 
-Alexandru Rosca - a.rosca@student.tue.nl
+Vincent P. Hoogendam - v.p.hoogendam@student.tue.nl
 
 Kalina Bakardzhieva - k.bakardzhieva@student.tue.nl
 
@@ -56,4 +56,5 @@ Luca Mainardi - l.mainardi@student.tue.nl
 
 Luyang Xie - l.xie@student.tue.nl
 
-Vincent Hoogendam - v.p.hoogendam@student.tue.nl
+Rianne M. Schouten - r.m.schouten@tue.nl
+
