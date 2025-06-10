@@ -11,7 +11,7 @@ To get started with this project, follow these steps to set up a virtual environ
 Use git to clone the repository
 ```bash
 $ git clone https://github.com/luca-mainardi/EMMAL.git
-$ cd active-learning-emm
+$ cd EMMAL
 ```
 
 ### 2. Set Up a Virtual Environment
@@ -44,7 +44,7 @@ $ pip install -r requirements.txt
 
 4. Run the Notebook
 
-Open the notebook AL_EMM.ipynb and run through the cells to explore the implementation and results of the EMM-based active learning method.
+Open the notebook EMMAL.ipynb and run through the cells to explore the implementation and results of the EMM-based active learning method.
 
 ## Contributors
 
