@@ -42,7 +42,7 @@ Once the virtual environment is activated, install the required dependencies:
 $ pip install -r requirements.txt
 ```
 
-4. Run the Notebook
+### 4. Run the Notebook
 
 Open the notebook EMMAL.ipynb and run through the cells to explore the implementation and results of the EMM-based active learning method.
 
